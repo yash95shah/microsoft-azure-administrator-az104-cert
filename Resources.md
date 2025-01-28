@@ -25,15 +25,15 @@ ACG Labs list
 * [ ] [Survey Resource Alerts Using Azure Monitor - A Cloud Guru](https://learn.acloud.guru/handson/fc90e8ec-6f2d-4660-a5a6-82005cfc8609)
 
 * [ ] [Deploy a Small Environment Using an ARM Template - A Cloud Guru](https://learn.acloud.guru/handson/3812f2d3-ede3-48f6-8512-aea20cf4801a)
-* [ ] [Limit Access to Azure Storage Account Using SAS URI - A Cloud Guru](https://learn.acloud.guru/handson/7ed36684-ad99-427f-9be7-15e3f2a9408c)
+* [X] [Limit Access to Azure Storage Account Using SAS URI - A Cloud Guru](https://learn.acloud.guru/handson/7ed36684-ad99-427f-9be7-15e3f2a9408c)
 
 * [ ] [Add, Remove and Update Tags for Resources in Azure - A Cloud Guru](https://learn.acloud.guru/handson/780a8b66-9d03-473a-80c0-425fb1237b2c)
 * [ ] [Expire Data Based on Age in Azure Blob Storage - A Cloud Guru](https://learn.acloud.guru/handson/0cfc2684-7ad1-4491-a29f-3e2df79c6174)
 
-* [ ] [Add Existing Data Disk to a VM in Azure - A Cloud Guru](https://learn.acloud.guru/handson/9e228934-cbef-49a4-a7f6-4739f98f9e15)
+* [X] [Add Existing Data Disk to a VM in Azure - A Cloud Guru](https://learn.acloud.guru/handson/9e228934-cbef-49a4-a7f6-4739f98f9e15)
 * [ ] [Create an Application Security Group for Two Web Servers in Azure - A Cloud Guru](https://learn.acloud.guru/handson/e0d53c23-be4b-4469-a662-2fe97f80ea55)
 
-* [ ] [Create a Hub-Spoke Network Topology in Azure - A Cloud Guru](https://learn.acloud.guru/handson/9141117d-75f1-4591-a044-c8fa934e334c)
+* [X] [Create a Hub-Spoke Network Topology in Azure - A Cloud Guru](https://learn.acloud.guru/handson/9141117d-75f1-4591-a044-c8fa934e334c)
 * [ ] [Access Windows VMs over SSL without Public IPs Using Azure Bastion - A Cloud Guru](https://learn.acloud.guru/handson/9a8bab5c-63c3-4602-9173-ddbf8f80fb67)
 
 * [ ] [Create a Standard Load Balancer with Azure CLI - A Cloud Guru](https://learn.acloud.guru/handson/8df186ad-d95c-482b-a057-e0a1d094d18e)
@@ -81,7 +81,7 @@ ACG Labs list
 * [ ] [Configuration and Security of Azure Storage Accounts - A Cloud Guru](https://learn.acloud.guru/handson/669815d5-09a5-49ef-8b6e-bc8e3a9a8194)
 * [ ] [Create and Save a Reusable ARM Template from an Existing Azure SQL Database - A Cloud Guru](https://learn.acloud.guru/handson/804627d2-764f-43c2-aea7-8f3f652ecfde)
 
-* [ ] [Configure a Backup Policy for an Azure Virtual Machine - A Cloud Guru](https://learn.acloud.guru/handson/8357f1a4-c088-4245-801f-e8692cb4d114)
+* [X] [Configure a Backup Policy for an Azure Virtual Machine - A Cloud Guru](https://learn.acloud.guru/handson/8357f1a4-c088-4245-801f-e8692cb4d114)
 * [ ] [Deploy an Azure Infrastructure Solution to Meet Business Requirements - A Cloud Guru](https://learn.acloud.guru/handson/242d890e-7317-410e-b325-0650dccf4b8c)
 
 * [ ] [Implement Defense in Depth on Azure - A Cloud Guru](https://learn.acloud.guru/handson/b12c181d-4eab-417c-ae82-26e5a4bad7a9)
