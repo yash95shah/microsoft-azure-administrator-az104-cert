@@ -8,7 +8,7 @@ deployment center helps to set up a local git repo and remote it with a url that
 
 Run $webApp = Get-AzWebApp -ResourceGroupName \$rsgGroup
 
-infinite loop command to send http request 
+infinite loop command to send http request
 
 while (\$true) { Invoke-WebRequest -Uri  \$webApp.DefaultHostName \}
 
@@ -16,6 +16,7 @@ Go to the Process Explorer to monitor instances and resource utilization.
 
 additional settings custom domains, private endpoints, private dns integration, certifictes,
 
+<<<<<<< HEAD
 
 
 Azure VMSS :- 
@@ -55,3 +56,12 @@ Get-AzVM
 Update-VMSS
 $vmss=Get-AzVmss and then change the .sku.capacity for the created variable.
 Stop-AzVM, Start-AzVmss, Restart-AzVmss
+=======
+---
+
+Recovery of files vs recovery of VM
+
+Recover to new VM, restore disks to new, provides a template for customization. These files are copied to a location inside the resource group you specify. You can also attach this disk to an existing VM. Useful if you need to customize a VM and those customization options were not available at the time.
+
+can also replace the existing but only for unencrypted managed VMs.
+>>>>>>> df756c2 (Update Compute, Entra, and Storage documentation with additional details on VM recovery, security questions, and storage access configurations)
